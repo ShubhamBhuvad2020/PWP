@@ -1,0 +1,31 @@
+body{
+padding: 20px;
+background-color: #ECF0F1 ;
+}
+img{
+	width: 300px;
+	height: 300px;
+	padding: 20px;
+	border: 1px solid black;
+	border-radius: 20px;
+	
+}
+table{
+	width: auto;
+	font-variant-caps: all; 
+	padding: 10px;
+	font-style: oblique;
+	text-align: justify;
+	padding-left: 50px;
+
+}
+
+h1{
+	color:#2C3E50 ;
+	font-size: 40px;
+	padding-left: 20px;
+}
+p{
+	font-size: 30px;
+	padding: 20px;
+}
